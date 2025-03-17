@@ -1,0 +1,22 @@
+{
+  "name": "unhaunter-landing",
+  "version": "0.0.1",
+  "description": "Web page compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoanGoAl/unhaunter.git"
+  },
+  "author": "Joan González Albert",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JoanGoAl/unhaunter/issues"
+  },
+  "homepage": "https://github.com/JoanGoAl/unhaunter#readme",
+  "dependencies": {
+    "marked": "^15.0.7"
+  }
+}
